@@ -6,6 +6,8 @@
 
 - College of Life Sciences, Sichuan Normal University, Chengdu, 610101, Sichuan, China
 - ⚡ 中配Agilities OverWatch宗师守门员
+
+![AuroraFrowned's github stats](https://github-readme-stats.vercel.app/api?username=AuroraFrowned&count_private=true)
 <!--
 **AuroraFrowned/AuroraFrowned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
