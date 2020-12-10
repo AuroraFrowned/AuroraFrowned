@@ -1,5 +1,11 @@
 ## 可怜今夕月，向何处，去悠悠 👋
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
+### I'm AuroraFrowned.
+
+- College of Life Sciences, Sichuan Normal University, Chengdu, 610101, Sichuan, China
+- ⚡ 中配Agilities OverWatch宗师守门员
 <!--
 **AuroraFrowned/AuroraFrowned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
